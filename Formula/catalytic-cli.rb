@@ -1,6 +1,6 @@
 class CatalyticCli < Formula
   desc "Catalytic CLI"
-  homepage "https://catalytic-developer.readme.io/reference/cli"
+  homepage "https://developers.catalytic.com/docs/catalytic-cli"
   version "1.0.0"
   bottle :unneeded
 
