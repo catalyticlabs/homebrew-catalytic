@@ -2,7 +2,6 @@ class CatalyticCli < Formula
   desc "Catalytic CLI"
   homepage "https://catalytic-developer.readme.io/reference/cli"
   version "1.0.0"
-  bottle :unneeded
 
   if OS.mac?
     url "https://github.com/catalyticlabs/homebrew-catalytic/releases/download/v1.0.0-cli/catalytic_1.0.0_osx-x64.tar.gz"
